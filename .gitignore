@@ -1,0 +1,33 @@
+# Environment
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/*
+!data/.gitkeep
+
+# ChromaDB
+chroma_db/
+chroma/
+vector_store/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
