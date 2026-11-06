@@ -173,8 +173,8 @@ arxiv-rag/
 ├── arxiv_vector_store.ipynb    # Dataset processing and vector indexing
 │
 ├── assets/                     # Interface screenshots
-│   ├── interface-main.png
-│   └── interface-filters.png
+│   ├── question.png
+│   └── question 2.png
 │
 ├── data/                       # Locally generated dataset files
 │
