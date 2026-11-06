@@ -176,11 +176,8 @@ arxiv-rag/
 │   ├── question.png
 │   └── question 2.png
 │
-├── data/                       # Locally generated dataset files
 │
 ├── requirements.txt
-├── .env.example
-├── .gitignore
 ├── README.md
 └── LICENSE
 ```
