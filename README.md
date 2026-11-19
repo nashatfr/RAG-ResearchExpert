@@ -194,7 +194,7 @@ arxiv-rag/
 
 ## 🔒 Notes
 
-- Kaggle credentials and API keys must never be committed to GitHub.
+
 - The raw and processed datasets are excluded from version control.
 - ChromaDB files are generated locally.
 - Both language models run locally through Ollama.
